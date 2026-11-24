@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+*.rar
+*.csv
+*.pt
+*.pth
+*.parquet
+data/
+.DS_Store
+Thumbs.db
